@@ -1,5 +1,5 @@
-Role Name
-=========
+Description
+===========
 
 A role used to register hosts to Rancher's server, by running rancher_agent Docker container and providing the agent with the name and the registration script.
 
